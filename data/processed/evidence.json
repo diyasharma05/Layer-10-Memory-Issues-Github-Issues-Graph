@@ -1,0 +1,702 @@
+[
+  {
+    "evidence_id": "b2d11cc071e6d535",
+    "claim_id": "9abf237630355fd3",
+    "artifact_id": "\"https://github.com/zhangyuanwei/node-images/issues/123\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "46b015a93d3a2c69",
+    "claim_id": "80f867d9fd512ac3",
+    "artifact_id": "\"https://github.com/zhangyuanwei/node-images/issues/123\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "3630a73bee5c3acf",
+    "claim_id": "5ba2751176e1edda",
+    "artifact_id": "\"https://github.com/Microsoft/pxt/issues/2543\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "01d0e47bb56b65b0",
+    "claim_id": "2a8d484d30022f70",
+    "artifact_id": "\"https://github.com/Microsoft/pxt/issues/2543\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "a3a9b3e819c09a4e",
+    "claim_id": "c7292da293b128f0",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1268\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "88502f2ea47453d0",
+    "claim_id": "87779e177fbfa86c",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1268\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "ada157fdbf519446",
+    "claim_id": "bcee0f6dc7203f02",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1267\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "448f72a4aee13ce3",
+    "claim_id": "5063b3cb3b47a234",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1267\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "7d8d6267f2e8b45e",
+    "claim_id": "873f79a2502196ae",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1289\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "68f683fc0ad7156f",
+    "claim_id": "14baafc5a6987d4d",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1289\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "98e423f43564f319",
+    "claim_id": "1fa857536f8d8e0a",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1300\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "143069273ea07594",
+    "claim_id": "28fb0f4c645d279e",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1300\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "6e5b65cc879ff0ba",
+    "claim_id": "3f72723a49434603",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1331\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "4086b5b476359b1a",
+    "claim_id": "2ceb35e7f15ba8d5",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1331\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "f6c7467b474fb91b",
+    "claim_id": "54ea25edf0bd260a",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1366\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "9abbe33c3a5fe574",
+    "claim_id": "e22c5bd0fc83bedb",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1366\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "0cfe21c370ef4531",
+    "claim_id": "bc040c4a1fe9aa23",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1382\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "3d4fab6fbf297f95",
+    "claim_id": "f1d4753cc8b7d84b",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1382\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "583a7c2fa8780b75",
+    "claim_id": "b7cd943e998eb63e",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1395\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "28d43e3237f21afe",
+    "claim_id": "e33e83e95f0cab90",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1395\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "e5c1f43c42f5dd67",
+    "claim_id": "c474a354f073feeb",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1403\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "55c94860c7c97cb1",
+    "claim_id": "f71e812e949753f9",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1403\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "c0a7a1f6236fe150",
+    "claim_id": "39ec6c77a13a1dbc",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1420\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "c2c098a58dc9c7b4",
+    "claim_id": "9235950e92d3a5d2",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1420\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "e722008640f1839b",
+    "claim_id": "b9a2f98b594ed8f8",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1432\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "c95753d712b7d95c",
+    "claim_id": "ca04726dcf962c69",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1432\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "3e0d4edad57a89cf",
+    "claim_id": "360e74136a3b7dbf",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1440\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "50965e97fce1da5e",
+    "claim_id": "57f3c6b35c3bbfd6",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1440\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "721fb2d07d61d238",
+    "claim_id": "9df84cfacb7ff6c9",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1443\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "536c4ce8e1af1bc7",
+    "claim_id": "26712d55488044e7",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1443\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "8d029983b6aa4248",
+    "claim_id": "3afcada199431d52",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1460\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "0f03b0524558aa36",
+    "claim_id": "bf81b8340f102729",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1460\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "726d0a9b3c17ee46",
+    "claim_id": "5ae4f3d5a9b75e82",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1473\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "f8b8e4f83d32c215",
+    "claim_id": "dba7f8c3f3ff2cca",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1473\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "2497f4dbb94ad550",
+    "claim_id": "4d16c797ac491883",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1489\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "901f90bfafddf1cb",
+    "claim_id": "247f173e1513f83a",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1489\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "64aa0d130efc6639",
+    "claim_id": "465a6cd7717356f0",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1494\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "dc66b532c55e9ae3",
+    "claim_id": "ccd98df4026a2cad",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1494\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "40ca5d347059c929",
+    "claim_id": "d507d38ba80bca15",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1506\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "6089045c010daa25",
+    "claim_id": "7d9c9253c7e38352",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1506\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "3df1d2bf436b9a11",
+    "claim_id": "237b2e2967efb008",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1528\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "d46f3e9927885271",
+    "claim_id": "66fcbb74f9c771a4",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1528\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "a2de683f15e534b4",
+    "claim_id": "290b030e97e1b264",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1535\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "d06881356122e2d6",
+    "claim_id": "e9679c830b041341",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1535\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "8b138ac6ee4e44bc",
+    "claim_id": "6d558a19a81003f8",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1542\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "bf8972897287d4d0",
+    "claim_id": "9bb0ecd83899665f",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1542\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "0eb5ff7f46541721",
+    "claim_id": "1ab306a16dc4eaab",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1548\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "680e25e84b4470d3",
+    "claim_id": "2d93ac4cb9162aa0",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1548\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "1c895aba100876df",
+    "claim_id": "f9e17742f9b15b28",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1553\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "df5db63bb427e076",
+    "claim_id": "532f7fb3bda77327",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1553\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "596f54406c7010f3",
+    "claim_id": "26fc4ba5d2197bb5",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1562\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "4b415fcf56ee3685",
+    "claim_id": "33f702a5f857cd27",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1562\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "20ea1d17207b0343",
+    "claim_id": "2c201b2eb61557e2",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1576\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "08189cd21a2c5a26",
+    "claim_id": "8717b60e6837b876",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1576\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "1480db9924185e39",
+    "claim_id": "400276264f17555c",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1605\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "59edc4587cf7e0c7",
+    "claim_id": "b6ebd479a2613516",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1605\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "c726291080e8c6a3",
+    "claim_id": "f630dc081a5bcf2a",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1621\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "427af97dad4fb03f",
+    "claim_id": "50c9fbd8fffacb24",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1621\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "c83cd651d39782e8",
+    "claim_id": "f69a7addf06eb95c",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1625\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "7110bb7c22dc6cc6",
+    "claim_id": "bf033465848431d9",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1625\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "c806c27c524e1891",
+    "claim_id": "904a86903778e518",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1636\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "2682601c13398144",
+    "claim_id": "aa155d10e08cb2c5",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1636\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "ea692912278ffe0f",
+    "claim_id": "91beec80fa84e8b0",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1641\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "6e9102c506d395e6",
+    "claim_id": "2a83e908d8bdcce7",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1641\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "4b8af5f43a3c74e1",
+    "claim_id": "b9e4bcee011bcdfe",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1645\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "bb97e15a94d2d804",
+    "claim_id": "f7cfd22def0b12aa",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1645\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "4fe37929eee1ae57",
+    "claim_id": "0ed47c3426c51313",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1651\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "ed55bbaf0cb4811c",
+    "claim_id": "69d8bbfb91e5a716",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1651\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "5e11920f515b7632",
+    "claim_id": "107ff46854679162",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1659\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "5ecbd4a95c096c31",
+    "claim_id": "9f2ca50eea01a5c7",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1659\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "fd71447601ed9582",
+    "claim_id": "2c5d6153e39d9169",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1658\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "b11323af9a95e193",
+    "claim_id": "1836233f5c7c4989",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1658\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "c6ee513c8e9fb73f",
+    "claim_id": "d647eb03640f53ff",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1701\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "7a4b7ec252171530",
+    "claim_id": "c2b31e00a6bf190e",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1701\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "c1d87ef7cb52b53b",
+    "claim_id": "c596a9b152b979a2",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1711\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "a19c0eaeafa59349",
+    "claim_id": "c9959401ac893a89",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1711\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "2df81ce374621282",
+    "claim_id": "4f136b2aba4cf976",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1720\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "910cdfd0889885da",
+    "claim_id": "c7a9620d62bf688c",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1720\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "16859481013d60dd",
+    "claim_id": "0df311c30d0e2963",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1723\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "c35b5bcd1184b3d6",
+    "claim_id": "09074ad3e44e4b88",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1723\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "6df907f70796f128",
+    "claim_id": "1a0543d82c7d7a49",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1731\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "62a92044768edec2",
+    "claim_id": "e1a69429c53879b3",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1731\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "d012963e3077c542",
+    "claim_id": "5605e59c437c7589",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1733\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "4cf419789e951dd7",
+    "claim_id": "55a5b0f005fbc908",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1733\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "96c1ee5a930899ad",
+    "claim_id": "07b5215ea0551ca2",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1765\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "c7f7c1333024d30e",
+    "claim_id": "3bf2f28a0ea67824",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1765\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "d2b2bcb411650ce1",
+    "claim_id": "1c6b64d6ea457ca8",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1821\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "80ff33f916685039",
+    "claim_id": "7c025b8057b3c755",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1821\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "e8302a88a03502ca",
+    "claim_id": "63906fc2966e29ac",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1843\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "d29c4908884e9ef7",
+    "claim_id": "febf4c481b9f07b8",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1843\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "83c75adfc04f8a01",
+    "claim_id": "507461780c1c9916",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1850\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "9f9138ef54eaaa45",
+    "claim_id": "8dfad648f1d4d54b",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1850\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "9158522b497f4301",
+    "claim_id": "c00910520a81b0b5",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1860\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "cd5c2350e9e0357e",
+    "claim_id": "f4a2a3d25db7ce71",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1860\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "e06beced10155645",
+    "claim_id": "8ecd8038cdbd89f7",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1915\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "3c38f51011e1a146",
+    "claim_id": "a145924a5db59b35",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1915\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "9b52991798aa218b",
+    "claim_id": "c4ae336abe87e850",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1918\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "1de7cf09edd0b1c7",
+    "claim_id": "f03d1cc868026dfb",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1918\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "3bad7fcc7f1c6147",
+    "claim_id": "1f5d8e205863b9e2",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1923\"",
+    "text_span": "Author Metadata",
+    "confidence": 1.0
+  },
+  {
+    "evidence_id": "38fbc3517e8f1063",
+    "claim_id": "15d637cb9862e36a",
+    "artifact_id": "\"https://github.com/MatisiekPL/Czekolada/issues/1923\"",
+    "text_span": "State Metadata",
+    "confidence": 1.0
+  }
+]

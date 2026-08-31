@@ -1,0 +1,7 @@
+[
+  "What issues mention memory leaks or crashes?",
+  "Which issues are related to accessibility or screen readers?",
+  "What are the open bugs in the Node.js bindings?",
+  "Which issues reference other issues on GitHub?",
+  "Are there any open issues about glibc version errors?"
+]
